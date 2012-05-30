@@ -15,7 +15,7 @@
     <artifactId>org.liveSense.fragment.sun.misc</artifactId>
     <version>1.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
-    <name>liveSense Sun misc extension</name>
+    <name>liveSense :: Extension :: Sun misc</name>
 
     <description>
         This bundle extends the System Bundle export
