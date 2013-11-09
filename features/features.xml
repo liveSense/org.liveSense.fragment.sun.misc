@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><features name="liveSense-${liveSense.version}-fragment-sun-misc" xmlns="http://karaf.apache.org/xmlns/features/v1.0.0">
+	<feature name="liveSense-fragment-sun-misc" version="${liveSense.fragment.sun.misc.version}" description="liveSense fragment sun misc">
+		<bundle>mvn:com.github.livesense/org.liveSense.fragment.sun.misc/${liveSense.fragment.sun.misc.version}</bundle>
+	</feature>
+</features>
