@@ -6,11 +6,11 @@
       <version>2-SNAPSHOT</version>
 		<relativePath>..</relativePath>
   </parent>
-  <scm>
-      <connection>scm:git:git://github.com/liveSense/org.liveSense.misc.sun.misc.git</connection>
-      <developerConnection>scm:git:git://github.com/liveSense/org.liveSense.misc.sun.misc.git</developerConnection>
-      <url>https://github.com/liveSense/org.liveSense.misc.sun.misc</url>
-  </scm>
+	<scm>
+		<connection>scm:git:https://github.com/liveSense/org.liveSense.fragment.sun.misc.git</connection>
+		<developerConnection>scm:git:https://github.com/liveSense/org.liveSense.fragment.sun.misc.git</developerConnection>
+		<url>https://github.com/liveSense/org.liveSense.fragment.sun.misc</url>
+	</scm>
 
 
     <artifactId>org.liveSense.fragment.sun.misc</artifactId>
